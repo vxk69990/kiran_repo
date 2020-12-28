@@ -1,2 +1,4 @@
 hello, 
-git is a version controler which can help us to keep a track on changes.
+git is a version controler which can help us to keep a track on changes
+
+moving forward you will have several issues . so prepare well.
